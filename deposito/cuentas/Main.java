@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         float cantidad = 0;
         operativa_cuenta(cantidad);
+        System.out.println("Hola Mundo");
     }
 
     private static void operativa_cuenta(float cantidad) {
